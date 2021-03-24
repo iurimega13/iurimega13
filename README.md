@@ -10,12 +10,7 @@
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iurimega13&layout=compact&langs_count=8&theme=radical"/>
 <div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="iuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="iuri-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="iuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="iuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/IURIMEGA_13?style=social)](https://twitter.com/IURIMEGA_13)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iurimega13/)](https://www.linkedin.com/in/iurimega13/)
