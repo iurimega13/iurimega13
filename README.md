@@ -1,3 +1,9 @@
+<p align="center">
+  <samp>
+    I'm Iuri Galdino
+    <br><br>
+    I study software engineering 
+  </samp>
 </p>
 
 
