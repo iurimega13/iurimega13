@@ -3,7 +3,7 @@
 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=iurimega13&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/iurimega13?style=social)](https://twitter.com/iurimega_13)
+[![Twitter Follow](https://img.shields.io/twitter/follow/IURIMEGA_13?style=social)](https://twitter.com/IURIMEGA_13)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iurimega13/)](https://www.linkedin.com/in/iurimega13/)
 
 
