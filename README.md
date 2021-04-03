@@ -1,4 +1,4 @@
-##  Eai, eu sou o Iuri :v: <br><br> Atualmente estudando Engenharia de Software 
+##  Eai, eu sou o Iuri :v: <br><br> Atualmente fazendo Engenharia de Software 
 <a href="https://github.com/iurimega13">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iurimega13&show_icons=true&theme=radical"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iurimega13&layout=compact&langs_count=8&theme=radical"/></a>
