@@ -1,17 +1,11 @@
-<p align="center">
   <samp>
     I'm Iuri Galdino :v:
     <br><br>
     I study software engineering 
   </samp>
-</p>
-
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=iurimega13&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iurimega13&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iurimega13&layout=compact&langs_count=8&theme=radical"/>
 <div>
-
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/IURIMEGA_13?style=social)](https://twitter.com/IURIMEGA_13)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iurimega13/)](https://www.linkedin.com/in/iurimega13/)
 
