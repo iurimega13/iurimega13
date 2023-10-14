@@ -8,6 +8,8 @@
 
 
 <b>Technologies I'm learning and developing:</b>
+<br>
+<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="290" /><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="218" />
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
