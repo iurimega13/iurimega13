@@ -4,7 +4,7 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iurimega13&layout=compact&langs_count=8&theme=radical"/></a>
 <div>
   
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iurimega13/)](https://www.linkedin.com/in/iurimega13/)
+
 
 
 <b>Technologies I'm learning and developing:</b>
@@ -18,6 +18,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iurimega13/)](https://www.linkedin.com/in/iurimega13/)
 
 <!--
 **iurimega13/iurimega13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
